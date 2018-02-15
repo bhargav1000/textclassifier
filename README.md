@@ -1,4 +1,4 @@
-This repository contains EMO-DETECTOR.
+This repository contains EMOTION-DETECTOR.
 --
 
 -Download the [GloVe](http://nlp.stanford.edu/data/glove.42B.300d.zip) dataset.
